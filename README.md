@@ -15,7 +15,7 @@ DevBaseFront
 ```
 - public: index.html
 - src: código fonte da aplicação
-  - components: Componentes reutilizaveis;
+  - components: Componentes reutilizáveis;
   - contexts: Contextos da context API;
   - pages: Páginas da aplicação;
   - routes: Definição das rotas da aplicação;
